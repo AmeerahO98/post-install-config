@@ -50,7 +50,7 @@ Configure Teams.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NtLRQOX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Agents.
@@ -58,7 +58,7 @@ Configure Agents.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/t9wyGkf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Users.
@@ -66,13 +66,9 @@ Configure Users.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zodZr2w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bdYYyMM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure SLA Agreements.
@@ -80,13 +76,9 @@ Configure SLA Agreements.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cKkjAsD.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JlW5du6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Help Topics.
